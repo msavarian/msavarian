@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm a .NET Developer, Software Architecter and focusing on study and learning
+ I'm a Software Architecture/Developer and focusing on .NET, study and learning
 <!--
 **msavarian/msavarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
