@@ -1,9 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 ## I'm Mahmoud Savarian (msavarian)
  I'm a Software Architecture/Developer and focusing on .NET, study and learning
 
-🔭 I’m currently working on my youtube channel
- ### https://youtube.com/@msavarian
+🔭 I’m currently working on my youtube channel https://youtube.com/@msavarian
 <!--
 **msavarian/msavarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
