@@ -1,11 +1,11 @@
 ## Hi there
- I'm a Software Architecture/Developer and focusing on .NET, study and learning
+ I'm a Software Engineering, focusing on .NET, study, and learning
 
 #### .NET Bootcamps Source Codes
 🔭 for access to **maktab-sharif** and **bamdad** bootcamps source codes, follow **https://github.com/dotnet-bootcamps** page
 
 #### Youtube Learning Channel
-🔭 I’m currently working on my youtube channel **https://youtube.com/@msavarian**
+🔭 I’m currently working on my YouTube channel **https://youtube.com/@msavarian**
 
 
 <!--
